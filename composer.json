@@ -1,0 +1,18 @@
+{
+    "name": "daygarcia/laravel-kangu",
+    "description": "Pacote desenvolvido em laravel para utilizar a API de transporte kangu",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Daygarcia\\LaravelKangu\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Dayanne Garcia",
+            "email": "48609156+DayGarcia@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
